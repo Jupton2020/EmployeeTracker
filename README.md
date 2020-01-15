@@ -9,6 +9,5 @@ A command-line application that  allows the user to:
  * Update employee roles
  
  
- ## MySQL database & App.js
- * Runs the application
+
  
